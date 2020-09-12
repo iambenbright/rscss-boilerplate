@@ -1,5 +1,6 @@
-# React + Styled Component + Styled System
+# rscss
 
-Very light boilerplate consisting of react, styled-component and styled-system for all sized react projects with [System UI Theme Specificication](https://system-ui.com/theme) support for design system style values and scales.
+A lightweight boilerplate including react, styled-component and styled-system.
+It has [system ui theme specification](https://system-ui.com/theme) support for design system style values and scales.
 
 WIP
