@@ -1,3 +1,4 @@
 import { theme, ThemeProvider } from './theme';
+import CSSReset from './css-reset';
 
-export { theme, ThemeProvider };
+export { CSSReset, theme, ThemeProvider };
